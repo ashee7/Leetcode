@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ashee7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ashee7/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashee7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashee7/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1755-defuse-the-bomb](https://github.com/ashee7/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashee7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashee7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1755-defuse-the-bomb](https://github.com/ashee7/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashee7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
