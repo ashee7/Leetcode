@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ashee7/Leetcode/tree/master/0100-same-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashee7/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -123,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ashee7/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ashee7/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ashee7/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ashee7/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
