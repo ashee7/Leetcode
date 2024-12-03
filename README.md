@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ashee7/Leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashee7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ashee7/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/ashee7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Design
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashee7/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1755-defuse-the-bomb](https://github.com/ashee7/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2232-adding-spaces-to-a-string](https://github.com/ashee7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashee7/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashee7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashee7/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/ashee7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ashee7/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashee7/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Union Find
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ashee7/Leetcode/tree/master/0125-valid-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ashee7/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/ashee7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
