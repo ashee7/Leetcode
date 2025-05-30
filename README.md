@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashee7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashee7/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashee7/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3822-fill-a-special-grid](https://github.com/ashee7/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3822-fill-a-special-grid](https://github.com/ashee7/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ashee7/Leetcode/tree/master/0036-valid-sudoku) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashee7/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashee7/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3822-fill-a-special-grid](https://github.com/ashee7/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Simulation
 |  |
 | ------- |
