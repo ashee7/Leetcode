@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ashee7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/ashee7/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ashee7/Leetcode/tree/master/0100-same-tree) |
+| [0386-lexicographical-numbers](https://github.com/ashee7/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/ashee7/Leetcode/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
