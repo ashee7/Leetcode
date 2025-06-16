@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashee7/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ashee7/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ashee7/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ashee7/Leetcode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/ashee7/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/ashee7/Leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashee7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ashee7/Leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3822-fill-a-special-grid](https://github.com/ashee7/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Bucket Sort
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/ashee7/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ashee7/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
