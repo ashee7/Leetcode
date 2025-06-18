@@ -16,7 +16,4 @@ class Solution:
                 continue
             dif=sorted_nums[i]-sorted_nums[i-1]
             totaldif+=dif
-        #     print(dif,totaldif,arr)
-        
-        # print(res)
         return res
