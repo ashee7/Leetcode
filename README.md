@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ashee7/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashee7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashee7/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashee7/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashee7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashee7/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ashee7/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashee7/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ashee7/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashee7/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashee7/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ashee7/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Divide and Conquer
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashee7/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/ashee7/Leetcode/tree/master/0135-candy) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ashee7/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashee7/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashee7/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ashee7/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ashee7/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
