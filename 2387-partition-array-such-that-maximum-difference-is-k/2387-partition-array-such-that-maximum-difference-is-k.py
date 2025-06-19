@@ -1,13 +1,10 @@
 class Solution:
     def partitionArray(self, nums: List[int], k: int) -> int:
-        sortednums=sorted(nums)
+        nums.sort()
         res=1
-        end=sortednums[0]+k
-        for num in sortednums:
-            if num<=end:
-                continue
-            else:
+        end=nums[0]+k
+        for num in nums:
+            if num>end:
                 end=num+k
                 res+=1
-            
         return res
