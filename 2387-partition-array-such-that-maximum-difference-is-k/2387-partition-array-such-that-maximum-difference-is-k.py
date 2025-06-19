@@ -4,7 +4,6 @@ class Solution:
         res=1
         end=sortednums[0]+k
         for num in sortednums:
-            print(num,end,res)
             if num<=end:
                 continue
             else:
