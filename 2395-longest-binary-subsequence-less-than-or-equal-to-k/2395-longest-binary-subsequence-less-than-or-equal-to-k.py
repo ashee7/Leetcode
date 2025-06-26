@@ -11,6 +11,5 @@ class Solution:
                 if total>k:
                     break
                 res+=1
-            print(total)
 
         return res+s.count('0')
