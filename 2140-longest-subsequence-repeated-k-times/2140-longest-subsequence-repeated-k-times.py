@@ -1,17 +1,24 @@
 class Solution:
     def longestSubsequenceRepeatedK(self, s: str, k: int) -> str:
-        ans=''
+        def isK(sub: str, t: str, k: int) -> bool:
+            count = i = 0
+            for ch in t:
+                if i < len(sub) and ch == sub[i]:
+                    i += 1
+                    if i == len(sub):
+                        i = 0
+                        count += 1
+                        if count == k:
+                            return True
+            return False
 
-        queue=sorted([char for char,freq in Counter(s).items() if freq>=k],reverse=True)
-        q=deque(queue)
+        res = ""
+        q = deque([""])
         while q:
-            curr=q.popleft()
-            if len(curr)>len(ans):
-                ans=curr
-            for ch in queue:
-                nxt=curr+ch
-                it = iter(s)
-                if all(ch in it for ch in nxt * k):
+            curr = q.popleft()
+            for ch in map(chr, range(ord('a'), ord('z') + 1)):
+                nxt = curr + ch
+                if isK(nxt, s, k):
+                    res = nxt
                     q.append(nxt)
-        return ans
-
+        return res
