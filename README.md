@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ashee7/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashee7/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ashee7/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1755-defuse-the-bomb](https://github.com/ashee7/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ashee7/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ashee7/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashee7/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ashee7/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ashee7/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashee7/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashee7/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashee7/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashee7/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/ashee7/Leetcode/tree/master/0125-valid-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ashee7/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ashee7/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashee7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ashee7/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ashee7/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ashee7/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ashee7/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashee7/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashee7/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
