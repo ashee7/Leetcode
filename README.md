@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ashee7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ashee7/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/ashee7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashee7/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashee7/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ashee7/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashee7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/ashee7/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/ashee7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashee7/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ashee7/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1755-defuse-the-bomb](https://github.com/ashee7/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashee7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/ashee7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1755-defuse-the-bomb](https://github.com/ashee7/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashee7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashee7/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashee7/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ashee7/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/ashee7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ashee7/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashee7/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashee7/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/ashee7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ashee7/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashee7/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashee7/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
