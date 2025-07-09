@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ashee7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashee7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ashee7/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ashee7/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -262,11 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashee7/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ashee7/Leetcode/tree/master/0070-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ashee7/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ashee7/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ashee7/Leetcode/tree/master/0070-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ashee7/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
