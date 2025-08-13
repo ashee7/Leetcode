@@ -285,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ashee7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ashee7/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/ashee7/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
