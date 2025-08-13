@@ -292,5 +292,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/ashee7/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/ashee7/Leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ashee7/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ashee7/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/ashee7/Leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
