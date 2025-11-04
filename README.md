@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashee7/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashee7/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashee7/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ashee7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ashee7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ashee7/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ashee7/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashee7/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ashee7/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ashee7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashee7/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ashee7/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashee7/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ashee7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3822-fill-a-special-grid](https://github.com/ashee7/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Sliding Window
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/ashee7/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashee7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashee7/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ashee7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
