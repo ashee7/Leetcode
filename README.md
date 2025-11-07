@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ashee7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ashee7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ashee7/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3863-power-grid-maintenance](https://github.com/ashee7/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -64,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashee7/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ashee7/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ashee7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/ashee7/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/ashee7/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [3863-power-grid-maintenance](https://github.com/ashee7/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashee7/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ashee7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3822-fill-a-special-grid](https://github.com/ashee7/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [3863-power-grid-maintenance](https://github.com/ashee7/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashee7/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3863-power-grid-maintenance](https://github.com/ashee7/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,10 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ashee7/Leetcode/tree/master/0100-same-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ashee7/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashee7/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3863-power-grid-maintenance](https://github.com/ashee7/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashee7/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3863-power-grid-maintenance](https://github.com/ashee7/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
 | ------- |
@@ -210,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ashee7/Leetcode/tree/master/0100-same-tree) |
 | [0386-lexicographical-numbers](https://github.com/ashee7/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/ashee7/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [3863-power-grid-maintenance](https://github.com/ashee7/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
