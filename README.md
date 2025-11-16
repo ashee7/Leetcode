@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ashee7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ashee7/Leetcode/tree/master/0242-valid-anagram) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ashee7/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ashee7/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ashee7/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashee7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ashee7/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ashee7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashee7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ashee7/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ashee7/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ashee7/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ashee7/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ashee7/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
