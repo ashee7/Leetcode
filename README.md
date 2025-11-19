@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ashee7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashee7/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashee7/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ashee7/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ashee7/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashee7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashee7/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ashee7/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashee7/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashee7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ashee7/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ashee7/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashee7/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashee7/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ashee7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ashee7/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashee7/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ashee7/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashee7/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashee7/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ashee7/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/ashee7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ashee7/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ashee7/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ashee7/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashee7/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ashee7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
