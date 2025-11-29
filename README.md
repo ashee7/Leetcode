@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/ashee7/Leetcode/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/ashee7/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/ashee7/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/ashee7/Leetcode/tree/master/0595-big-countries) |
